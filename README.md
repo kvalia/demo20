@@ -1,2 +1,2 @@
 # demo20
-my first repo
+my first repository
